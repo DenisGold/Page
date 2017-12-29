@@ -1,7 +1,7 @@
 {
-  "name": "idavoll/page-module",
+  "name": "denisgold/page-module",
   "type": "asgard-module",
-  "description": "Page module for AsgardCMS. Page management.",
+  "description": "Page module for AsgardCMS. Page management by Denis Stoliarchuk.",
   "keywords": [
     "asgardcms",
     "pages"
@@ -9,16 +9,11 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Nicolas Widart",
-      "email": "info@asgardcms.com",
+      "name": "Denis Stoliarchuk",
+      "email": "dartius@mail.ru",
       "role": "Developer"
     }
   ],
-  "support": {
-    "email": "support@asgardcms.com",
-    "issues": "https://github.com/AsgardCms/Page/issues",
-    "source": "https://github.com/AsgardCms/Page"
-  },
   "require": {
     "php": ">=7.0.0",
     "composer/installers": "~1.0",
